@@ -4,6 +4,9 @@ __pycache__
 .pytest_cache
 .venv
 *.egg-info
+EasyRSA-3.1.0
+certificate
+.env
 
 # CDK asset staging directory
 .cdk.staging
